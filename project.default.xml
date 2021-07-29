@@ -1,0 +1,24 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Buildout</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (pythonProject)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
